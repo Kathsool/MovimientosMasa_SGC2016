@@ -1,5 +1,5 @@
 # MovimientosMasa_SGC2016
-Este código realizado para ArcGIS obtiene la amenaza por movimientos en masa a escala detallada (1:2000/1:5000), según la Guía metodológica para estudios de amenaza, vulnerabilidad y riesgo por movimientos en masa (Avila et al., 2016)
+Este código realizado para ArcGIS 10.8 obtiene la amenaza por movimientos en masa a escala detallada (1:2000/1:5000), según la Guía metodológica para estudios de amenaza, vulnerabilidad y riesgo por movimientos en masa (Avila et al., 2016)
 
 
 Se tienen 3 archivos:
